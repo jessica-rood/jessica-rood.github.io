@@ -11,7 +11,7 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD candidate in Economics at Rice University, working on labor and family economics.
 footer_text: >
-  &copy; Jessica Rood. Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Department of Economics, Rice University &middot; <a href="mailto:jr120@rice.edu">jr120@rice.edu</a>
 keywords: economics, labor economics, family economics, experimental economics, Rice University, PhD
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 📚 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
