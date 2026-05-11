@@ -9,12 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "publications",
-          description: "Working papers and work in progress, in reverse chronological order.",
+  },{id: "nav-research",
+          title: "research",
+          description: "Working papers and works in progress, organized by stage.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/publications/";
+            window.location.href = "/research/";
           },
         },{id: "nav-cv",
           title: "CV",
@@ -477,6 +477,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/jessica-rood", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/jessica-rood-6692a9193", "_blank");
         },
       },{
         id: 'social-rss',
