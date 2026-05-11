@@ -178,6 +178,12 @@ layout: default
               {% elsif section_title == 'References' %}
                 {% assign entries = section_entries %}
                 {% include cv/references.liquid %}
+              {% elsif section_title == 'Research Experience' or section_title == 'Teaching' or section_title == 'Teaching Experience' or section_title == 'Professional Experience' or section_title == 'Industry Experience' %}
+                {% assign entries = section_entries %}
+                {% include cv/experience.liquid %}
+              {% elsif section_title == 'Presentations' or section_title == 'Conference Presentations' or section_title == 'Talks' %}
+                {% assign entries = section_entries %}
+                {% include cv/publications.liquid %}
               {% else %}
                 <!-- Generic section -->
                 {% for entry in section_entries %}
