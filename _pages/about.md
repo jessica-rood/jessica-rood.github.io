@@ -22,10 +22,10 @@ latest_posts:
   enabled: false
 ---
 
-I am a PhD candidate in Economics at [Rice University](https://economics.rice.edu/), advised by [Flávio Cunha](https://flaviocunha.rice.edu/). I am affiliated with the Texas Policy Lab and the [Kinder Institute for Urban Research](https://kinder.rice.edu/).
+I am a PhD candidate in Economics at [Rice University](https://economics.rice.edu/), advised by [Flávio Cunha](https://www.flaviocunha.com/). I am affiliated with the Texas Policy Lab and the [Kinder Institute for Urban Research](https://kinder.rice.edu/).
 
 My research is in **labor and family economics**, with a focus on early-childhood programs, caregiver–child language development, and the childcare sector. I combine randomized controlled trials, structural estimation, and qualitative methods to study how families, providers, and policy interact.
 
-I am a recipient of the AEA Summer Dissertation Fellowship (W.E. Upjohn Institute, 2026) and a CIISR Research Grant. My current work includes a randomized evaluation of the [LENA Start](https://lenastart.org/) parenting program (NBER WP #35150, with Flávio Cunha, Snejana Nihtianova, and Anja-Lize van der Merwe) and a qualitative study of turnover in early childcare supports (with Ji-Hee Lee).
+I am a recipient of the AEA Summer Dissertation Fellowship (W.E. Upjohn Institute, 2026) and a [CIISR](https://ciisr.rice.edu/) Research Grant. My current work includes a randomized evaluation of the LENA Start parenting program (NBER WP #35150, with Flávio Cunha, Snejana Nihtianova, and Anja-Lize van der Merwe) and a qualitative study of turnover in early childcare supports (with Ji-Hee Lee).
 
 I expect to graduate in **2028** and will be on the job market in **Fall 2027**.
