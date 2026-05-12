@@ -28,4 +28,4 @@ I am a PhD candidate in Economics at [Rice University](https://economics.rice.ed
 
 Current projects include a structural model of childcare access and maternal labor supply in New York City; a stated-choice experiment on pre-K enrollment with Houston-area districts; a qualitative study of workforce turnover (with Ji-Hee Lee, Snejana Nihtianova, and Jennifer Bouek); and a randomized evaluation of the LENA Start parenting program (NBER WP #35150, with Flávio Cunha, Snejana Nihtianova, and Anja-Lize van der Merwe).
 
-I expect to graduate in **2028** and will be on the job market in **Fall 2027**.
+I will be on the job market in **Fall 2027**.
