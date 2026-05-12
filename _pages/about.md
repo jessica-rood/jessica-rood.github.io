@@ -22,7 +22,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a PhD candidate in Economics at [Rice University](https://economics.rice.edu/), advised by [Flávio Cunha](https://flaviocunha.rice.edu/). I am affiliated with the [Texas Policy Lab](https://www.texaspolicylab.org/) and the [Kinder Institute for Urban Research](https://kinder.rice.edu/).
+I am a PhD candidate in Economics at [Rice University](https://economics.rice.edu/), advised by [Flávio Cunha](https://flaviocunha.rice.edu/). I am affiliated with the Texas Policy Lab and the [Kinder Institute for Urban Research](https://kinder.rice.edu/).
 
 My research is in **labor and family economics**, with a focus on early-childhood programs, caregiver–child language development, and the childcare sector. I combine randomized controlled trials, structural estimation, and qualitative methods to study how families, providers, and policy interact.
 
