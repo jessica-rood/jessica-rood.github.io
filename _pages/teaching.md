@@ -1,15 +1,12 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Course materials, schedules, and resources for classes taught.
-nav: false
-nav_order: 6
-calendar: true
+title: Teaching
+description: Course materials for classes I teach.
+nav: true
+nav_order: 3
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
-
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+Lab sessions I teach as a teaching assistant at Rice University. Each course page has the schedule, slides, and handouts.
 
 {% include courses.liquid %}
