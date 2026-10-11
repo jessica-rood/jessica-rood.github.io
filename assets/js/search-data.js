@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Teaching assistant, ECON 209 Applied Econometrics, Rice University",
+          description: "Rice University and Truman State University",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
