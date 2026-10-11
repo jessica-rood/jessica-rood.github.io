@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Course materials for classes I teach.",
+          description: "Teaching assistant, ECON 209 Applied Econometrics, Rice University",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -456,7 +456,7 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "teachings-econ-209-applied-econometrics-lab-sessions",
           title: 'ECON 209: Applied Econometrics, Lab Sessions',
-          description: "Weekly lab sessions for Applied Econometrics at Rice University. Students work in Python in VS Code with real public data, and learn to use AI tools while understanding every step and result.",
+          description: "A lab curriculum I design and teach for Applied Econometrics at Rice University. Students work in Python in VS Code with real public data, and learn to use AI coding tools while understanding every step and result.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/econ209-fall-2026/";
             },},{
