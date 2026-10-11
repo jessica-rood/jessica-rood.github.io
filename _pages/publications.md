@@ -17,7 +17,4 @@ nav_order: 1
   <h2 class="bibliography-section-heading">Works in Progress</h2>
   {% bibliography -q @*[category=work_in_progress] %}
 
-  <h2 class="bibliography-section-heading">Active Projects</h2>
-  {% bibliography -q @*[category=active_project] %}
-
 </div>

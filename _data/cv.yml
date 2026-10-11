@@ -59,7 +59,7 @@ cv:
         highlights:
           - "Economic mobility report: measuring what the 2015 oil-price collapse did to the conditions for economic mobility in Houston, using synthetic difference-in-differences across nine federal data sources"
           - "Built the study's full estimation pipeline and public replication package; drafting the report"
-          - "Co-designing an RCT of an 8-week baby sign language program; managing community partnerships and grant proposals"
+          - "Co-designed an RCT of an 8-week baby sign language program; managed community partnerships and grant proposals"
           - "Cleaned and merged device-recording and survey data from a 10-week LENA Start RCT in Alief ISD (5-year administration)"
           - "Assessed sensitivity of OLS estimates to attrition and recording choice using balancing, IPW, and Lee Bounds"
           - "Implemented causal forests to estimate heterogeneous treatment effects"
