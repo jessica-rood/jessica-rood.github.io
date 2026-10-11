@@ -57,6 +57,8 @@ cv:
         start_date: 2023-06
         end_date: Present
         highlights:
+          - "Economic mobility report: measuring what the 2015 oil-price collapse did to the conditions for economic mobility in Houston, using synthetic difference-in-differences across nine federal data sources"
+          - "Built the study's full estimation pipeline and public replication package; drafting the report"
           - "Co-designing an RCT of an 8-week baby sign language program; managing community partnerships and grant proposals"
           - "Cleaned and merged device-recording and survey data from a 10-week LENA Start RCT in Alief ISD (5-year administration)"
           - "Assessed sensitivity of OLS estimates to attrition and recording choice using balancing, IPW, and Lee Bounds"
@@ -71,12 +73,13 @@ cv:
 
     Teaching:
       - company: Rice University, Department of Economics
-        position: Teaching Assistant, Applied Econometrics
+        position: Teaching Assistant, Applied Econometrics (ECON 209)
         location: Houston, TX
         start_date: 2025-08
-        end_date: 2026-05
+        end_date: Present
         highlights:
-          - "Led recitations (introduction to RStudio and theoretical concepts)"
+          - "Fall 2026: designed and teach a new Python lab curriculum (with Prof. Jeff Dominitz)"
+          - "2025-26: led weekly recitations in R and RStudio"
           - "Awarded the Dagobert L. Brito Award for Best Performance by a Recitation Instructor, Spring 2026"
 
       - company: Truman State University, Department of Economics
@@ -100,6 +103,10 @@ cv:
 
       - title: AEA Summer Dissertation Fellowship
         awarder: American Economic Association / W.E. Upjohn Institute
+        date: 2026
+
+      - title: Center for Computational Insights on Inequality and Society (CIISR) Research Fellowship ($1,500)
+        awarder: CIISR
         date: 2026
 
       - title: Center for Computational Insights on Inequality and Society (CIISR) Research Grant ($1,899)
@@ -127,6 +134,10 @@ cv:
         date: 2018-2022
 
     Presentations:
+      - title: "Beliefs, Attention, and Investments in Early Childhood"
+        publisher: Advances with Field Experiments Conference, University of Chicago
+        releaseDate: 2026
+
       - title: "Beliefs, Conversations, and Language Development in Early Childhood: Evidence and Mechanisms from an Experimental Study"
         publisher: Education Data Science Conference, Stanford University
         releaseDate: 2026
