@@ -164,16 +164,13 @@ cv:
 
     Skills:
       - name: Programming
-        level: Advanced
         icon: fa-solid fa-code
         keywords: "Stata, R (causal_forest), Python, Julia, LaTeX"
 
       - name: Data Collection & Management
-        level: Advanced
         icon: fa-solid fa-database
         keywords: "Salesforce, ATLAS.ti, Qualtrics, Box"
 
       - name: Empirical Methods
-        level: Advanced
         icon: fa-solid fa-chart-line
         keywords: "Randomized controlled trials, causal forests, IPW, Lee bounds, structural estimation, dynamic discrete choice, qualitative coding"
