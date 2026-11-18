@@ -50,7 +50,7 @@ cv:
         url: https://doi.org/10.25611/jb6q-0c62
         releaseDate: 2026
 
-      - title: "Replication Package and Output Data: An Analysis of the Long-Term Impact of the 2014–2016 Oil Shock on Houston's Economy (lead author)"
+      - title: "Replication Package and Output Data: An Analysis of the Long-Term Impact of the 2014–2016 Oil Shock on Houston's Economy"
         publisher: "With A.-L. van der Merwe, B. Selsberg, H. Ahamed, and J. Njeh. Kinder Institute Urban Data Platform"
         url: https://doi.org/10.25612/837.LEWYWODKK7GL
         releaseDate: 2026
@@ -73,8 +73,8 @@ cv:
         start_date: 2023-06
         end_date: Present
         highlights:
-          - "Economic mobility reports (published November 2026): led the analysis of what the 2014–2016 oil-price collapse did to economic mobility in Houston, using synthetic difference-in-differences across nine federal data sources"
-          - "Built the full estimation pipeline and led the public replication package (Kinder Urban Data Platform)"
+          - "Economic mobility reports (published November 2026): contributed to the analysis of what the 2014–2016 oil-price collapse did to economic mobility in Houston, using synthetic difference-in-differences across nine federal data sources"
+          - "Created the public replication package (Kinder Urban Data Platform), with the help of Claude, Anthropic's AI assistant"
           - "Co-designed an RCT of an 8-week baby sign language program; managed community partnerships and grant proposals"
           - "Cleaned and merged device-recording and survey data from a 10-week LENA Start RCT in Alief ISD (5-year administration)"
           - "Assessed sensitivity of OLS estimates to attrition and recording choice using balancing, IPW, and Lee Bounds"
