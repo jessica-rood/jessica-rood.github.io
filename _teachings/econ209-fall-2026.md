@@ -4,7 +4,7 @@ title: "ECON 209: Applied Econometrics, Lab Sessions"
 description: A lab curriculum I design and teach for Applied Econometrics at Rice University. Students work in Python in VS Code with real public data, and learn to use AI coding tools while understanding every step and result.
 instructor: Prof. Jeff Dominitz (Jessica Rood, Teaching Assistant, designs and teaches the lab sessions)
 year: 2026
-term: Fall
+term: Fall 2026
 location: Sewall Hall 207, Rice University
 time: Mondays, 6:00–6:50 PM (Section 004) and 7:00–7:50 PM (Section 005)
 course_id: econ209-fall-2026
