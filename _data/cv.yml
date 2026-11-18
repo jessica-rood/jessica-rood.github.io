@@ -44,6 +44,22 @@ cv:
           - "Graduated May 2022, GPA 4.0"
           - "Outstanding Student in Economics, 2022"
 
+    Reports and Data:
+      - title: "Economic Mobility in the Houston Area, Part 1: An Analysis of the Long-Term Impact of the 2014–2016 Oil Shock on Houston's Economy"
+        publisher: "With H. Ahamed, S. Nihtianova, J. Njeh, B. Selsberg, A.-L. van der Merwe, and F. Cunha. Center for Economic Mobility, Kinder Institute for Urban Research"
+        url: https://doi.org/10.25611/jb6q-0c62
+        releaseDate: 2026
+
+      - title: "Replication Package and Output Data: An Analysis of the Long-Term Impact of the 2014–2016 Oil Shock on Houston's Economy (lead author)"
+        publisher: "With A.-L. van der Merwe, B. Selsberg, H. Ahamed, and J. Njeh. Kinder Institute Urban Data Platform"
+        url: https://doi.org/10.25612/837.LEWYWODKK7GL
+        releaseDate: 2026
+
+      - title: "Economic Mobility in the Houston Area, Part 2: A Proposal of Four North Stars"
+        publisher: "With H. Ahamed, S. Nihtianova, J. Njeh, B. Selsberg, A.-L. van der Merwe, and F. Cunha. Center for Economic Mobility, Kinder Institute for Urban Research"
+        url: https://doi.org/10.25611/cxjs-1r88
+        releaseDate: 2026
+
     Research Experience:
       - company: W.E. Upjohn Institute
         position: AEA Summer Dissertation Fellow
@@ -57,8 +73,8 @@ cv:
         start_date: 2023-06
         end_date: Present
         highlights:
-          - "Economic mobility report: measuring what the 2015 oil-price collapse did to the conditions for economic mobility in Houston, using synthetic difference-in-differences across nine federal data sources"
-          - "Built the study's full estimation pipeline and public replication package; drafting the report"
+          - "Economic mobility reports (published November 2026): led the analysis of what the 2014–2016 oil-price collapse did to economic mobility in Houston, using synthetic difference-in-differences across nine federal data sources"
+          - "Built the full estimation pipeline and led the public replication package (Kinder Urban Data Platform)"
           - "Co-designed an RCT of an 8-week baby sign language program; managed community partnerships and grant proposals"
           - "Cleaned and merged device-recording and survey data from a 10-week LENA Start RCT in Alief ISD (5-year administration)"
           - "Assessed sensitivity of OLS estimates to attrition and recording choice using balancing, IPW, and Lee Bounds"
