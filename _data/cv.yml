@@ -75,7 +75,6 @@ cv:
         highlights:
           - "Economic mobility reports (published November 2026): contributed to the analysis of what the 2014–2016 oil-price collapse did to economic mobility in Houston, using synthetic difference-in-differences across nine federal data sources"
           - "Created the public replication package (Kinder Urban Data Platform), with the help of Claude, Anthropic's AI assistant"
-          - "Co-designed an RCT of an 8-week baby sign language program; managed community partnerships and grant proposals"
           - "Cleaned and merged device-recording and survey data from a 10-week LENA Start RCT in Alief ISD (5-year administration)"
           - "Assessed sensitivity of OLS estimates to attrition and recording choice using balancing, IPW, and Lee Bounds"
           - "Implemented causal forests to estimate heterogeneous treatment effects"
