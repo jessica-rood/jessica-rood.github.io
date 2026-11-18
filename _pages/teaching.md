@@ -20,7 +20,7 @@ nav_order: 3
 **TRU 110: Self & Society, Seminar in the Moral Sciences, Truman State University** · With Prof. David Gillette
 
 - Co-developed this new first-year seminar, 2019–2020
-- Helped teach its first offering, Fall 2020
+- Helped plan the course in Spring 2020 and teach its first offering in Fall 2020
 - [Syllabus, Fall 2020 (PDF)](/assets/pdf/teaching/TRU110_Self_and_Society_Syllabus_Fall2020.pdf)
 
 Full teaching record: [CV](/cv/)

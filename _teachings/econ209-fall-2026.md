@@ -43,6 +43,34 @@ schedule:
     materials:
       - name: Slides (PDF)
         url: /assets/pdf/econ209/ECON209_Lab5_Slides_Fall2026.pdf
+
+  - week: Lab 6
+    date: Oct 19
+    topic: "Building an analysis sample from two files: merging metro data, a dummy variable, summary statistics, and a first look at job creation by metro size"
+    materials:
+      - name: Slides (PDF)
+        url: /assets/pdf/econ209/ECON209_Lab6_Slides_Fall2026.pdf
+
+  - week: Lab 7
+    date: Oct 26
+    topic: "Least squares against least absolute deviations, region from the metro's name, and testing several coefficients at once"
+    materials:
+      - name: Slides (PDF)
+        url: /assets/pdf/econ209/ECON209_Lab7_Slides_Fall2026.pdf
+
+  - week: Lab 8
+    date: Nov 2
+    topic: "A yes-or-no outcome: the linear probability model, logit, and probit, and how maximum likelihood finds the estimates"
+    materials:
+      - name: Slides (PDF)
+        url: /assets/pdf/econ209/ECON209_Lab8_Slides_Fall2026.pdf
+
+  - week: Lab 9
+    date: Nov 16
+    topic: "Reading a 1980 census extract with Claude explaining the code: cleaning, years of education, log wages, and education by quarter of birth"
+    materials:
+      - name: Slides (PDF)
+        url: /assets/pdf/econ209/ECON209_Lab9_Slides_Fall2026.pdf
 ---
 
 Course handouts:
